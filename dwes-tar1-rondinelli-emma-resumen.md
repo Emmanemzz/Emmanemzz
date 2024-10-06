@@ -3,7 +3,7 @@
 ### ¿Qué es un lenguaje de programación?
 
 Un lenguaje de programación es un conjunto de reglas y sintaxis que permite dar instrucciones a una computadora para realizar tareas específicas. Estos lenguajes actúan como un puente entre los humanos y las máquinas, facilitando la creación de software, aplicaciones y sistemas que ejecutan las instrucciones definidas en el código.
-## Origen de C#
+## Origen de   ![Logo C Sharp](logocsharp.png)
 
 C#, pronunciado como "C Sharp", es un lenguaje de programación desarrollado por Microsoft. Su historia comienza a finales de 1990 cuando Microsoft buscaba crear un lenguaje moderno y versátil. 
 Es un lenguaje orientado a objetos, está diseñado para facilitar la creación de software modular y reutilizable. 
@@ -15,6 +15,8 @@ Una de las características más significativas de C# es su estrecha integració
 ## ¿Cuán popular es?
 
 C# es un lenguaje de programación muy popular, especialmente en el desarrollo de aplicaciones para Windows y en el entorno de .NET. Su popularidad ha crecido gracias a su uso en el desarrollo de aplicaciones de escritorio, web y juegos *(a través de Unity)*. Según el índice de popularidad de Stack Overflow Developer Survey, C# se encuentra entre los lenguajes más utilizados.
+
+![Gráfica popularidad](/images/gráfica-popularidad.png)
 
 ## Características principales
 
@@ -63,10 +65,26 @@ C# se utiliza en varias aplicaciones o páginas web entre ellas están:
 
 Skype utiliza el lenguaje C#, especialmente en la versión de escritorio para Windows. 
 
+![Logo skype](/images/logo-skype.jpg)
+
 **STACK OVERFLOW**
 
 Es un famoso sitio web de preguntas y respuestas para programadores, está construido principalmente con ASP.NET, un framework de C#.
 
+![Logo stack overflow](/images/logo-stackoverflow.png)
+
 **MICROSOFT VISUAL STUDIO**
 
 Es un entorno de desarrollo integrado *(IDE)* que soporta C# y es ampliamente utilizado para desarrollar aplicaciones con este lenguaje.
+
+![Logo visual studio](/images/logo-visual-studio.png)
+
+## Ejemplo de "Hola mundo" con C#
+
+![Ejemplo "Hola mundo"](/images/ejemplo-holamundo.png)
+
+### Trabajo realizado por:
+
+- Emma Rondinelli
+- Lucas Fernández
+- Pelayo Cano
