@@ -3,7 +3,8 @@
 ### ¿Qué es un lenguaje de programación?
 
 Un lenguaje de programación es un conjunto de reglas y sintaxis que permite dar instrucciones a una computadora para realizar tareas específicas. Estos lenguajes actúan como un puente entre los humanos y las máquinas, facilitando la creación de software, aplicaciones y sistemas que ejecutan las instrucciones definidas en el código.
-## Origen de   ![Logo C Sharp](logocsharp.png)
+
+# Origen de   ![Logo C Sharp](logocsharp.png)
 
 C#, pronunciado como "C Sharp", es un lenguaje de programación desarrollado por Microsoft. Su historia comienza a finales de 1990 cuando Microsoft buscaba crear un lenguaje moderno y versátil. 
 Es un lenguaje orientado a objetos, está diseñado para facilitar la creación de software modular y reutilizable. 
@@ -12,13 +13,13 @@ La primera versión de C# se introdujo en el año 2000 como parte de la platafor
 
 Una de las características más significativas de C# es su estrecha integración con el entorno de desarrollo de Microsoft y Visual Studio. Esto proporiciona un conjunto completo de caracterísitcas para escribir, depurar y desplegar aplicaciones de manera eficiente.
 
-## ¿Cuán popular es?
+# ¿Cuán popular es?
 
 C# es un lenguaje de programación muy popular, especialmente en el desarrollo de aplicaciones para Windows y en el entorno de .NET. Su popularidad ha crecido gracias a su uso en el desarrollo de aplicaciones de escritorio, web y juegos *(a través de Unity)*. Según el índice de popularidad de Stack Overflow Developer Survey, C# se encuentra entre los lenguajes más utilizados.
 
 ![Gráfica popularidad](/images/gráfica-popularidad.png)
 
-## Características principales
+# Características principales
 
 - Multiplataforma, ejecutable en los sistemas más comunes como Windows, MacOs, Linux.
 - SIntaxis similar a C, C++, Java, etc.
@@ -28,7 +29,7 @@ C# es un lenguaje de programación muy popular, especialmente en el desarrollo d
 - Dispone de un nutrido conjunto de librerías.
 - Orientado a componentes.
 
-## Ventajas e inconvenientes
+# Ventajas e inconvenientes
 
 **VENTAJAS**
 
@@ -47,7 +48,7 @@ C# es un lenguaje de programación muy popular, especialmente en el desarrollo d
 4. Curva de aprendizaje moderada: puede requerir bastante tiempo aprender que lenguajes de Scripting son más sencillos.
 5. Menos adecuado para sistemas de baja potencia: no es un lenguaje ideal para dispositivos de baja potencia.
 
-## Usos
+# Usos
 
 C# es considerado un lenguaje multiusos:
 
@@ -57,7 +58,7 @@ C# es considerado un lenguaje multiusos:
 - Aplicaciones móviles: desarrollo de aplicaciones para iOS y Android.
 - Aplicaciones empresariales: implementación de software interno y sistemas de gestión en entornos corporativos.
 
-## Usos reales de C#
+# Usos reales de C#
 
 C# se utiliza en varias aplicaciones o páginas web entre ellas están:
 
@@ -79,7 +80,7 @@ Es un entorno de desarrollo integrado *(IDE)* que soporta C# y es ampliamente ut
 
 ![Logo visual studio](/images/logo-visual-studio.png)
 
-## Ejemplo de "Hola mundo" con C#
+# Ejemplo de "Hola mundo" con C#
 
 ![Ejemplo "Hola mundo"](/images/ejemplo-holamundo.png)
 
